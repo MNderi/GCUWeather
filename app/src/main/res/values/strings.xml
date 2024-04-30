@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GCUWeather</string>
+    <string name="welcome_message">Weather G</string>
+    <string name="select_language_prompt">Select Language</string>
+    <string name="onboard_button_text">Onboard</string>
+    <string name="get_started_button_text">Skip</string>
+    <string name="header_text">Weather</string>
+    <string name="search_hint">Search...</string>
+    <string name="language_preferences">Language Preferences</string>
+    <string name="notification_preferences">Notification Preferences</string>
+    <string name="unit_of_measurement_preferences">Unit of Measurement Preferences</string>
+    <string name="receive_severe_weather_alerts">Receive Severe Weather Alerts</string>
+    <string name="receive_daily_forecast_updates">Receive Daily Forecast Updates</string>
+    <string name="metric">Metric (Celsius, meters)</string>
+    <string name="imperial">Imperial (Fahrenheit, miles)</string>
+    <string name="_3_day_forecast">3 day Forecast</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_direction">Wind Direction</string>
+    <string name="air_pressure">Air Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="get_started">Get Started</string>
+    <string name="swipe">Swipe</string>
+    <string name="today">Today</string>
+    <string name="rainy">Rainy</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="sunny">Sunny</string>
+    <string name="temperature">Temperature</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="language_english">English</string>
+    <string name="language_french">French</string>
+    <string name="language_bengali">Bengali</string>
+    <string name="language_macedonian">Macedonian</string>
+    <string name="language_albanian">Albanian</string>
+    <string name="onboarding_step1">Search a location by its name on the search page</string>
+    <string name="onboarding_step2">Scroll through the elements on the search page</string>
+    <string name="onboarding_step3">To see weather details, click on an element</string>
+    <string name="onboarding_step4">To view a three-day forecast, click on the Three Day Forecast button on the details page</string>
+    <string name="day_forecast">Day Forecast</string>
+    <string name="copyright_text">© 2024 Marthar Nderitu S2110914</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="close">Close</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="change_language_title">Change Language</string>
+    <string name="change_language_message">Are you sure you want to change the language to %1$s?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>

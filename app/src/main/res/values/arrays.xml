@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="language_options">
+        <item>@string/language_english</item>
+        <item>@string/language_french</item>
+        <item>@string/language_bengali</item>
+        <item>@string/language_macedonian</item>
+        <item>@string/language_albanian</item>
+        <!-- Add more language options as needed -->
+    </string-array>
+</resources>

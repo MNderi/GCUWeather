@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true"
+    android:interpolator="@android:anim/accelerate_decelerate_interpolator">
+
+    <!-- Translation animation to move the icon to the left -->
+    <translate
+        android:fromXDelta="0"
+        android:toXDelta="-20"
+        android:duration="100" />
+
+    <!-- Translation animation to move the icon back to its original position -->
+    <translate
+        android:fromXDelta="-20"
+        android:toXDelta="0"
+        android:startOffset="100"
+        android:duration="100" />
+</set>

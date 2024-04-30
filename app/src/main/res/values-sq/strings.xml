@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GCUWeather</string>
+    <string name="welcome_message">Parashikimi i motit</string>
+    <string name="select_language_prompt">Zgjidhni Gjuhën</string>
+    <string name="onboard_button_text">Nis</string>
+    <string name="get_started_button_text">Kalo</string>
+    <string name="header_text">Parashikimi i Motit</string>
+    <string name="search_hint">Kërkoni...</string>
+    <string name="language_preferences">Preferencat e Gjuhës</string>
+    <string name="notification_preferences">Preferencat e Njoftimeve</string>
+    <string name="unit_of_measurement_preferences">Preferencat e Njësive të Matjes</string>
+    <string name="receive_severe_weather_alerts">Prano Njoftime për Kushte të Rënda të Motit</string>
+    <string name="receive_daily_forecast_updates">Prano Azhurnime të Përditshme të Parashikimit</string>
+    <string name="metric">Metrike (Celsius, metra)</string>
+    <string name="imperial">Imperial (Fahrenheit, milja)</string>
+    <string name="_3_day_forecast">Parashikimi për 3 Ditë</string>
+    <string name="wind_speed">Shpejtësia e erës</string>
+    <string name="wind_direction">Drejtimi i erës</string>
+    <string name="air_pressure">Presioni i Ajrit</string>
+    <string name="humidity">Lagështia</string>
+    <string name="get_started">Fillo</string>
+    <string name="swipe">Shfletim</string>
+    <string name="today">Sot</string>
+    <string name="rainy">Rrëshqitës</string>
+    <string name="search">Kërko</string>
+    <string name="settings">Cilësimet</string>
+    <string name="home">Kreu</string>
+    <string name="sunny">Diell</string>
+    <string name="temperature">Temperatura</string>
+    <string name="date">Data</string>
+    <string name="location">Vendndodhja</string>
+    <string name="language_english">Anglisht</string>
+    <string name="language_french">Frëngjisht</string>
+    <string name="language_bengali">Bengalisht</string>
+    <string name="language_macedonian">Maqedonisht</string>
+    <string name="language_albanian">Shqip</string>
+    <string name="onboarding_step1">Kërkoni një vendndodhje sipas emrit të saj në faqen e kërkimit</string>
+    <string name="onboarding_step2">Bëni shirit nëpër elementet në faqen e kërkimit</string>
+    <string name="onboarding_step3">Për të parë detajet e motit, klikoni në një element</string>
+    <string name="onboarding_step4">Për të parë një parashikim për tre ditë, klikoni në butonin Parashikimi për tre ditë në faqen e detajeve</string>
+    <string name="day_forecast">Parashikimi i Ditës</string>
+    <string name="copyright_text">© 2024 Marthar Nderitu S2110914 </string>
+    <string name="recommendations">Rekomandadime</string>
+    <string name="close">Mbyll </string>
+    <string name="dark_mode">Mënyra e errët</string>
+    <string name="light_mode">Mënyra e dritës</string>
+    <string name="change_language_title">Ndrysho gjuhën</string>
+    <string name="change_language_message">A jeni të sigurt se doni të ndryshoni gjuhën në %1$s ?</string>
+    <string name="yes">Po</string>
+    <string name="no">Jo</string>
+
+</resources>

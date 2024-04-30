@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GCUWeather</string>
+    <string name="welcome_message">Временска прогноза</string>
+    <string name="select_language_prompt">Изберете Јазик</string>
+    <string name="onboard_button_text">Крмачај</string>
+    <string name="get_started_button_text">Прескокни</string>
+    <string name="header_text">Временска Прогноза</string>
+    <string name="search_hint">Пребарај...</string>
+    <string name="language_preferences">Поставки за Јазик</string>
+    <string name="notification_preferences">Поставки за Известувања</string>
+    <string name="unit_of_measurement_preferences">Поставки за Мерење</string>
+    <string name="receive_severe_weather_alerts">Примајте Известувања за Тешки Временски Услови</string>
+    <string name="receive_daily_forecast_updates">Примајте Дневни Ажурирања за Прогнозата</string>
+    <string name="metric">Метрички (Целзиус, метри)</string>
+    <string name="imperial">Империјален (Фаренхајт, милји)</string>
+    <string name="_3_day_forecast">Прогноза за 3 Дена</string>
+    <string name="wind_speed">Брзина на Ветер</string>
+    <string name="wind_direction">Насока на Ветер</string>
+    <string name="air_pressure">Воздушен Притисок</string>
+    <string name="humidity">Влажност</string>
+    <string name="get_started">Започни</string>
+    <string name="swipe">Провлечете</string>
+    <string name="today">Денес</string>
+    <string name="rainy">Дождливо</string>
+    <string name="search">Пребарувај</string>
+    <string name="settings">Поставки</string>
+    <string name="home">Почетна</string>
+    <string name="sunny">Сончево</string>
+    <string name="temperature">Температура</string>
+    <string name="date">Датум</string>
+    <string name="location">Локација</string>
+    <string name="language_english">Англиски</string>
+    <string name="language_french">Француски</string>
+    <string name="language_bengali">Бенгалски</string>
+    <string name="language_macedonian">Македонски</string>
+    <string name="language_albanian">Албански</string>
+    <string name="onboarding_step1">Пребарајте локација според името на страницата за пребарување</string>
+    <string name="onboarding_step2">Поместете се низ елементите на страницата за пребарување</string>
+    <string name="onboarding_step3">За да видите метеоролошки детали, кликнете на елемент</string>
+    <string name="onboarding_step4">За да видите предвидување за три дена, кликнете на копчето Предвидување за три дена на страницата за детали</string>
+    <string name="day_forecast">Дневна прогноза</string>
+    <string name="copyright_text">© 2024 Мартар Ндериту С2110914 </string>
+    <string name="recommendations">Препораки </string>
+    <string name="close">Затвори </string>
+    <string name="change_language_title">Смени јазик</string>
+    <string name="change_language_message">Дали сте сигурни дека сакате да го смените јазикот на %1$s ?</string>
+    <string name="yes">Да</string>
+    <string name="no">Не</string>
+    <string name="dark_mode">Темен Режим</string>
+    <string name="light_mode">Светлесен Режим</string>
+
+</resources>
